@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Why I Believe in Poverty
 
   As the richest experience that can come to a Boy'
